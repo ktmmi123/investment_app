@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/KooliProjekt.csproj": {}
+    "/Users/ck/Documents/kata/Invest/investment_app/KooliProjekt.csproj": {}
   },
   "projects": {
-    "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/KooliProjekt.csproj": {
+    "/Users/ck/Documents/kata/Invest/investment_app/KooliProjekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/KooliProjekt.csproj",
+        "projectUniqueName": "/Users/ck/Documents/kata/Invest/investment_app/KooliProjekt.csproj",
         "projectName": "KooliProjekt",
-        "projectPath": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/KooliProjekt.csproj",
+        "projectPath": "/Users/ck/Documents/kata/Invest/investment_app/KooliProjekt.csproj",
         "packagesPath": "/Users/ck/.nuget/packages/",
-        "outputPath": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/obj/",
+        "outputPath": "/Users/ck/Documents/kata/Invest/investment_app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ck/.nuget/NuGet/NuGet.Config"

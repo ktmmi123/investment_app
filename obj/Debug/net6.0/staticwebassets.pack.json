@@ -1,1987 +1,1995 @@
 {
   "Files": [
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/obj/Debug/net6.0/scopedcss/projectbundle/KooliProjekt.bundle.scp.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/obj/Debug/net6.0/scopedcss/projectbundle/KooliProjekt.bundle.scp.css",
       "PackagePath": "staticwebassets/KooliProjekt.bundle.scp.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/custom.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/custom.css",
       "PackagePath": "staticwebassets/assets/corporate/css/custom.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/style-responsive.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/style-responsive.css",
       "PackagePath": "staticwebassets/assets/corporate/css/style-responsive.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/style.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/style.css",
       "PackagePath": "staticwebassets/assets/corporate/css/style.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/themes/blue.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/themes/blue.css",
       "PackagePath": "staticwebassets/assets/corporate/css/themes/blue.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/themes/gray.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/themes/gray.css",
       "PackagePath": "staticwebassets/assets/corporate/css/themes/gray.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/themes/green.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/themes/green.css",
       "PackagePath": "staticwebassets/assets/corporate/css/themes/green.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/themes/orange.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/themes/orange.css",
       "PackagePath": "staticwebassets/assets/corporate/css/themes/orange.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/themes/red.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/themes/red.css",
       "PackagePath": "staticwebassets/assets/corporate/css/themes/red.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/css/themes/turquoise.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/css/themes/turquoise.css",
       "PackagePath": "staticwebassets/assets/corporate/css/themes/turquoise.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/Thumbs.db",
       "PackagePath": "staticwebassets/assets/corporate/img/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/blockquote-corner-another-color.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/blockquote-corner-another-color.png",
       "PackagePath": "staticwebassets/assets/corporate/img/blockquote-corner-another-color.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/blockquote-corner.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/blockquote-corner.png",
       "PackagePath": "staticwebassets/assets/corporate/img/blockquote-corner.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/fa-angle-brands.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/fa-angle-brands.png",
       "PackagePath": "staticwebassets/assets/corporate/img/fa-angle-brands.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/fa-angle-down-langs.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/fa-angle-down-langs.png",
       "PackagePath": "staticwebassets/assets/corporate/img/fa-angle-down-langs.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/fa-angles.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/fa-angles.png",
       "PackagePath": "staticwebassets/assets/corporate/img/fa-angles.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icon-color-close.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icon-color-close.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icon-color-close.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icon-color.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icon-color.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icon-color.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icons/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/Thumbs.db",
       "PackagePath": "staticwebassets/assets/corporate/img/icons/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icons/add-goods.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/add-goods.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icons/add-goods.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icons/del-goods.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/del-goods.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icons/del-goods.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icons/search-icon.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/invest.png",
+      "PackagePath": "staticwebassets/assets/corporate/img/icons/invest.png"
+    },
+    {
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/investlogo.png",
+      "PackagePath": "staticwebassets/assets/corporate/img/icons/investlogo.png"
+    },
+    {
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/search-icon.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icons/search-icon.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icons/shop-cart-icon.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/shop-cart-icon.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icons/shop-cart-icon.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icons/sidebar-toggle-icons.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/sidebar-toggle-icons.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icons/sidebar-toggle-icons.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icons/toggler.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/toggler.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icons/toggler.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/icons/top-search-icon.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/icons/top-search-icon.png",
       "PackagePath": "staticwebassets/assets/corporate/img/icons/top-search-icon.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/layerslider-arrows.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/layerslider-arrows.png",
       "PackagePath": "staticwebassets/assets/corporate/img/layerslider-arrows.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/0logo-blue-small.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/0logo-blue-small.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/0logo-blue-small.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/0logo-blue.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/0logo-blue.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/0logo-blue.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/0logo-green.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/0logo-green.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/0logo-green.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/0logo-orange.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/0logo-orange.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/0logo-orange.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/Thumbs.db",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-corp-blue.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-corp-blue.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-corp-blue.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-corp-gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-corp-gray.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-corp-gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-corp-green.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-corp-green.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-corp-green.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-corp-orange.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-corp-orange.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-corp-orange.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-corp-red.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-corp-red.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-corp-red.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-corp-turquoise.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-corp-turquoise.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-corp-turquoise.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-red.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-red.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-red.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-shop-blue.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-shop-blue.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-shop-blue.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-shop-gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-shop-gray.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-shop-gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-shop-green.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-shop-green.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-shop-green.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-shop-orange.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-shop-orange.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-shop-orange.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-shop-red.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-shop-red.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-shop-red.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/logo-shop-turquoise.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/logo-shop-turquoise.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/logo-shop-turquoise.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/logos/shop-logo-red.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/logos/shop-logo-red.png",
       "PackagePath": "staticwebassets/assets/corporate/img/logos/shop-logo-red.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/new.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/new.png",
       "PackagePath": "staticwebassets/assets/corporate/img/new.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/payments/MasterCard.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/payments/MasterCard.jpg",
       "PackagePath": "staticwebassets/assets/corporate/img/payments/MasterCard.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/payments/PayPal.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/payments/PayPal.jpg",
       "PackagePath": "staticwebassets/assets/corporate/img/payments/PayPal.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/payments/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/payments/Thumbs.db",
       "PackagePath": "staticwebassets/assets/corporate/img/payments/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/payments/american-express.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/payments/american-express.jpg",
       "PackagePath": "staticwebassets/assets/corporate/img/payments/american-express.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/payments/fa-angle-right-info.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/payments/fa-angle-right-info.png",
       "PackagePath": "staticwebassets/assets/corporate/img/payments/fa-angle-right-info.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/payments/visa.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/payments/visa.jpg",
       "PackagePath": "staticwebassets/assets/corporate/img/payments/visa.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/payments/western-union.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/payments/western-union.jpg",
       "PackagePath": "staticwebassets/assets/corporate/img/payments/western-union.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/sale.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/sale.png",
       "PackagePath": "staticwebassets/assets/corporate/img/sale.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/step3-angle-right.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/step3-angle-right.png",
       "PackagePath": "staticwebassets/assets/corporate/img/step3-angle-right.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/syncfusion-icons-white.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/syncfusion-icons-white.png",
       "PackagePath": "staticwebassets/assets/corporate/img/syncfusion-icons-white.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/syncfusion-icons.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/syncfusion-icons.png",
       "PackagePath": "staticwebassets/assets/corporate/img/syncfusion-icons.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/img/up.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/img/up.png",
       "PackagePath": "staticwebassets/assets/corporate/img/up.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/scripts/back-to-top.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/scripts/back-to-top.js",
       "PackagePath": "staticwebassets/assets/corporate/scripts/back-to-top.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/corporate/scripts/layout.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/corporate/scripts/layout.js",
       "PackagePath": "staticwebassets/assets/corporate/scripts/layout.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/css/animate.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/css/animate.css",
       "PackagePath": "staticwebassets/assets/pages/css/animate.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/css/components.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/css/components.css",
       "PackagePath": "staticwebassets/assets/pages/css/components.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/css/gallery.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/css/gallery.css",
       "PackagePath": "staticwebassets/assets/pages/css/gallery.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/css/portfolio.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/css/portfolio.css",
       "PackagePath": "staticwebassets/assets/pages/css/portfolio.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/css/slider.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/css/slider.css",
       "PackagePath": "staticwebassets/assets/pages/css/slider.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/css/style-shop.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/css/style-shop.css",
       "PackagePath": "staticwebassets/assets/pages/css/style-shop.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/brands/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/brands/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/brands/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/brands/canon.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/brands/canon.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/brands/canon.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/brands/esprit.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/brands/esprit.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/brands/esprit.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/brands/gap.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/brands/gap.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/brands/gap.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/brands/next.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/brands/next.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/brands/next.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/brands/puma.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/brands/puma.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/brands/puma.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/brands/zara.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/brands/zara.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/brands/zara.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/careers/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/careers/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/careers/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/careers/careers.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/careers/careers.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/careers/careers.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/cart-img.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/cart-img.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/cart-img.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/clients/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_1.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_1.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_1.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_1_gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_1_gray.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_1_gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_2.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_2.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_2.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_2_gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_2_gray.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_2_gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_3.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_3.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_3.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_3_gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_3_gray.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_3_gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_4.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_4.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_4.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_4_gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_4_gray.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_4_gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_5.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_5.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_5.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_5_gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_5_gray.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_5_gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_6.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_6.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_6.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_6_gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_6_gray.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_6_gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_7.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_7.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_7.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_7_gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_7_gray.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_7_gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_8.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_8.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_8.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/clients/client_8_gray.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/clients/client_8_gray.png",
       "PackagePath": "staticwebassets/assets/pages/img/clients/client_8_gray.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/fa-angle-brands.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/fa-angle-brands.png",
       "PackagePath": "staticwebassets/assets/pages/img/fa-angle-brands.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/fa-angles.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/fa-angles.png",
       "PackagePath": "staticwebassets/assets/pages/img/fa-angles.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg1_BK.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg1_BK.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg1_BK.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg2_BK.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg2_BK.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg2_BK.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg4.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg4.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg4.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg5.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg5.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg5.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg8.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg8.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg8.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg9.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg9.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg9.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/bg9_BK.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/bg9_BK.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/bg9_BK.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/hint1-blue.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/hint1-blue.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/hint1-blue.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/hint1-green.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/hint1-green.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/hint1-green.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/hint1-orange.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/hint1-orange.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/hint1-orange.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/hint1-red.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/hint1-red.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/hint1-red.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/hint2-blue.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/hint2-blue.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/hint2-blue.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/hint2-green.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/hint2-green.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/hint2-green.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/hint2-orange.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/hint2-orange.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/hint2-orange.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/hint2-red.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/hint2-red.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/hint2-red.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/ipad.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/ipad.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/ipad.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/ipadmini.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/ipadmini.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/ipadmini.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/iphone.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/iphone.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/iphone.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/iphone_large.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/iphone_large.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/iphone_large.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/iphone_left.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/iphone_left.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/iphone_left.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/iphone_right.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/iphone_right.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/iphone_right.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/mac.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/mac.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/mac.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/macbook.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/macbook.png",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/macbook.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/thumbs/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/thumbs/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/thumbs/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/thumbs/thumb1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/thumbs/thumb2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/thumbs/thumb3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb4.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb4.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/thumbs/thumb4.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb5.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb5.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/thumbs/thumb5.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb6.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb6.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/thumbs/thumb6.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb7.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/frontend-slider/thumbs/thumb7.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/frontend-slider/thumbs/thumb7.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icon-color-close.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icon-color-close.png",
       "PackagePath": "staticwebassets/assets/pages/img/icon-color-close.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icon-color.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icon-color.png",
       "PackagePath": "staticwebassets/assets/pages/img/icon-color.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icons/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icons/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/icons/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icons/add-goods.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icons/add-goods.png",
       "PackagePath": "staticwebassets/assets/pages/img/icons/add-goods.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icons/del-goods.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icons/del-goods.png",
       "PackagePath": "staticwebassets/assets/pages/img/icons/del-goods.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icons/search-icon.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icons/search-icon.png",
       "PackagePath": "staticwebassets/assets/pages/img/icons/search-icon.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icons/shop-cart-icon.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icons/shop-cart-icon.png",
       "PackagePath": "staticwebassets/assets/pages/img/icons/shop-cart-icon.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icons/sidebar-toggle-icons.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icons/sidebar-toggle-icons.png",
       "PackagePath": "staticwebassets/assets/pages/img/icons/sidebar-toggle-icons.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icons/toggler.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icons/toggler.png",
       "PackagePath": "staticwebassets/assets/pages/img/icons/toggler.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/icons/top-search-icon.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/icons/top-search-icon.png",
       "PackagePath": "staticwebassets/assets/pages/img/icons/top-search-icon.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/img1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/img1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/img1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/img3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/img3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/img3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/index-sliders/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/index-sliders/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/index-sliders/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/index-sliders/slide1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/index-sliders/slide1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/index-sliders/slide1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/index-sliders/slide2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/index-sliders/slide2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/index-sliders/slide2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/index-sliders/slide3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/index-sliders/slide3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/index-sliders/slide3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/new.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/new.png",
       "PackagePath": "staticwebassets/assets/pages/img/new.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/people/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img1-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img1-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img1-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img1-small.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img1-small.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img1-small.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img2-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img2-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img2-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img2-small.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img2-small.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img2-small.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img3-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img3-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img3-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img3-small.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img3-small.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img3-small.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img4-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img4-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img4-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img4-small.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img4-small.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img4-small.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img5-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img5-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img5-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img5-small.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img5-small.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img5-small.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img6-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img6-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img6-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img6-small.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img6-small.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img6-small.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img7-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img7-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img7-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img7-small.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img7-small.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img7-small.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img8-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img8-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img8-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/people/img8-small.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/people/img8-small.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/people/img8-small.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/photos/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/photos/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/photos/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/photos/img1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/photos/img1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/photos/img1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/photos/img2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/photos/img2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/photos/img2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/photos/img3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/photos/img3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/photos/img3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/photos/img4.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/photos/img4.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/photos/img4.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/photos/img5.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/photos/img5.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/photos/img5.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/photos/img6.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/photos/img6.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/photos/img6.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/pics/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/pics/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/pics/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/pics/img1-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/pics/img1-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/pics/img1-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/pics/img1-medium.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/pics/img1-medium.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/pics/img1-medium.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/pics/img2-large.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/pics/img2-large.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/pics/img2-large.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/pics/img2-large_bk.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/pics/img2-large_bk.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/pics/img2-large_bk.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/pics/img2-medium.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/pics/img2-medium.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/pics/img2-medium.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/pics/img2-medium_bk.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/pics/img2-medium_bk.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/pics/img2-medium_bk.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/posts/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/posts/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/posts/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/posts/img1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/posts/img1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/posts/img1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/posts/img2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/posts/img2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/posts/img2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/posts/img3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/posts/img3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/posts/img3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/product1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/product1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/product1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/product1big.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/product1big.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/product1big.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/products/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/k1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/k1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/k1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/k2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/k2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/k2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/k3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/k3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/k3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/k4.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/k4.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/k4.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/model1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/model1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/model1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/model2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/model2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/model2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/model3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/model3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/model3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/model4.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/model4.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/model4.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/model5.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/model5.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/model5.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/model6.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/model6.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/model6.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/model7.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/model7.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/model7.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/p1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/p1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/p1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/p2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/p2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/p2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/p3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/p3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/p3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/p4.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/p4.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/p4.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/p5.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/p5.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/p5.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/p6.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/p6.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/p6.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/products/p7.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/products/p7.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/products/p7.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/sale.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/sale.png",
       "PackagePath": "staticwebassets/assets/pages/img/sale.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide1/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide1/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide1/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide1/bg.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide1/bg.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide1/bg.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide2/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide2/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide2/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide2/bg.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide2/bg.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide2/bg.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide2/price.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide2/price.png",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide2/price.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide3/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide3/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide3/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide3/bg.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide3/bg.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide3/bg.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide4/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide4/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide4/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide4/bg.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide4/bg.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide4/bg.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide4/buy.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide4/buy.png",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide4/buy.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide4/price.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide4/price.png",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide4/price.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/shop-slider/slide4/title.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/shop-slider/slide4/title.png",
       "PackagePath": "staticwebassets/assets/pages/img/shop-slider/slide4/title.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/social/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/aboutme.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/aboutme.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/aboutme.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/amazon.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/amazon.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/amazon.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/behance.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/behance.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/behance.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/blogger.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/blogger.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/blogger.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/deviantart.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/deviantart.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/deviantart.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/dribbble.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/dribbble.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/dribbble.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/dropbox.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/dropbox.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/dropbox.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/evernote.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/evernote.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/evernote.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/facebook.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/facebook.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/facebook.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/flickr.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/flickr.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/flickr.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/forrst.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/forrst.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/forrst.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/foursquare.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/foursquare.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/foursquare.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/github.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/github.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/github.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/googleplus.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/googleplus.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/googleplus.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/gravatar.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/gravatar.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/gravatar.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/instagram.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/instagram.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/instagram.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/jolicloud.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/jolicloud.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/jolicloud.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/klout.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/klout.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/klout.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/last-fm.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/last-fm.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/last-fm.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/linkedin.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/linkedin.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/linkedin.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/myspace.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/myspace.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/myspace.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/picasa.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/picasa.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/picasa.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/pintrest.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/pintrest.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/pintrest.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/quora.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/quora.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/quora.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/reddit.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/reddit.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/reddit.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/rss.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/rss.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/rss.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/skype.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/skype.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/skype.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/spotify.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/spotify.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/spotify.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/stumbleupon.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/stumbleupon.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/stumbleupon.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/tumblr.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/tumblr.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/tumblr.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/twitter.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/twitter.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/twitter.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/vimeo.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/vimeo.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/vimeo.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/vk.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/vk.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/vk.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/wordpress.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/wordpress.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/wordpress.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/xing.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/xing.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/xing.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/yahoo.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/yahoo.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/yahoo.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/social/youtube.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/social/youtube.png",
       "PackagePath": "staticwebassets/assets/pages/img/social/youtube.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/step3-angle-right.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/step3-angle-right.png",
       "PackagePath": "staticwebassets/assets/pages/img/step3-angle-right.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/title-bg/1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/title-bg/1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/title-bg/1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/title-bg/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/title-bg/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/title-bg/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/title-bg/man.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/title-bg/man.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/title-bg/man.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/title-bg/woman.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/title-bg/woman.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/title-bg/woman.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/works/Thumbs.db",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/works/Thumbs.db",
       "PackagePath": "staticwebassets/assets/pages/img/works/Thumbs.db"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/works/img1.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/works/img1.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/works/img1.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/works/img2.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/works/img2.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/works/img2.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/works/img3.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/works/img3.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/works/img3.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/works/img4.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/works/img4.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/works/img4.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/works/img5.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/works/img5.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/works/img5.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/img/works/img6.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/img/works/img6.jpg",
       "PackagePath": "staticwebassets/assets/pages/img/works/img6.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/scripts/bs-carousel.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/scripts/bs-carousel.js",
       "PackagePath": "staticwebassets/assets/pages/scripts/bs-carousel.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/scripts/checkout.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/scripts/checkout.js",
       "PackagePath": "staticwebassets/assets/pages/scripts/checkout.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/scripts/contact-us.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/scripts/contact-us.js",
       "PackagePath": "staticwebassets/assets/pages/scripts/contact-us.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/pages/scripts/portfolio.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/pages/scripts/portfolio.js",
       "PackagePath": "staticwebassets/assets/pages/scripts/portfolio.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap-touchspin/LICENSE.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap-touchspin/LICENSE.md",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap-touchspin/LICENSE.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap-touchspin/README.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap-touchspin/README.md",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap-touchspin/README.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.css",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.js",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.min.css",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.min.js",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap-touchspin/bootstrap.touchspin.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/css/bootstrap-theme.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/css/bootstrap-theme.css",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/css/bootstrap-theme.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/css/bootstrap-theme.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/css/bootstrap-theme.css.map",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/css/bootstrap-theme.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/css/bootstrap-theme.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/css/bootstrap-theme.min.css",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/css/bootstrap-theme.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/css/bootstrap.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/css/bootstrap.css",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/css/bootstrap.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/css/bootstrap.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/css/bootstrap.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/js/bootstrap.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/js/bootstrap.js",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/js/bootstrap.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/js/bootstrap.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/bootstrap/js/npm.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/bootstrap/js/npm.js",
       "PackagePath": "staticwebassets/assets/plugins/bootstrap/js/npm.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/excanvas.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/excanvas.min.js",
       "PackagePath": "staticwebassets/assets/plugins/excanvas.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/.gitattributes",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/.gitattributes",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/.gitattributes"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/CHANGELOG.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/CHANGELOG.md",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/CHANGELOG.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/CHANGELOG.txt",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/CHANGELOG.txt",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/CHANGELOG.txt"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/README.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/README.md",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/README.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/README.txt",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/README.txt",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/README.txt"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/1_b.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/1_b.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/1_b.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/1_s.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/1_s.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/1_s.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/2_b.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/2_b.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/2_b.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/2_s.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/2_s.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/2_s.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/3_b.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/3_b.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/3_b.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/3_s.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/3_s.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/3_s.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/4_b.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/4_b.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/4_b.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/4_s.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/4_s.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/4_s.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/5_b.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/5_b.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/5_b.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/5_s.jpg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/5_s.jpg",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/5_s.jpg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/ajax.txt",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/ajax.txt",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/ajax.txt"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/iframe.html",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/iframe.html",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/iframe.html"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/demo/index.html",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/demo/index.html",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/demo/index.html"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/lib/jquery-1.8.2.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/lib/jquery-1.8.2.min.js",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/lib/jquery-1.8.2.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/lib/jquery.mousewheel-3.0.6.pack.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/lib/jquery.mousewheel-3.0.6.pack.js",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/blank.gif",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/blank.gif",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/blank.gif"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/fancybox_loading.gif",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/fancybox_loading.gif",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/fancybox_loading.gif"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/fancybox_overlay.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/fancybox_overlay.png",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/fancybox_overlay.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/fancybox_sprite.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/fancybox_sprite.png",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/fancybox_sprite.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/helpers/fancybox_buttons.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/helpers/fancybox_buttons.png",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/helpers/fancybox_buttons.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-buttons.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-buttons.css",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/helpers/jquery.fancybox-buttons.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-buttons.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-buttons.js",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/helpers/jquery.fancybox-buttons.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-media.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-media.js",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/helpers/jquery.fancybox-media.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.css",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.js",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/jquery.fancybox.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/jquery.fancybox.css",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/jquery.fancybox.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/jquery.fancybox.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/jquery.fancybox.js",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/jquery.fancybox.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/fancybox/source/jquery.fancybox.pack.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/fancybox/source/jquery.fancybox.pack.js",
       "PackagePath": "staticwebassets/assets/plugins/fancybox/source/jquery.fancybox.pack.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/css/font-awesome.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/css/font-awesome.css",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/css/font-awesome.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/css/font-awesome.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/css/font-awesome.min.css",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/css/font-awesome.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/fonts/FontAwesome.otf",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/fonts/FontAwesome.otf",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/fonts/FontAwesome.otf"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/animated.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/animated.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/animated.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/bordered-pulled.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/bordered-pulled.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/bordered-pulled.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/core.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/core.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/core.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/fixed-width.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/fixed-width.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/fixed-width.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/font-awesome.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/font-awesome.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/font-awesome.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/icons.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/icons.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/icons.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/larger.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/larger.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/larger.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/list.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/list.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/list.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/mixins.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/mixins.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/mixins.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/path.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/path.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/path.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/rotated-flipped.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/rotated-flipped.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/rotated-flipped.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/stacked.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/stacked.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/stacked.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/less/variables.less",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/less/variables.less",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/less/variables.less"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_animated.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_animated.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_animated.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_bordered-pulled.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_bordered-pulled.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_bordered-pulled.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_core.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_core.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_core.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_fixed-width.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_fixed-width.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_fixed-width.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_icons.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_icons.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_icons.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_larger.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_larger.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_larger.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_list.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_list.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_list.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_mixins.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_mixins.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_mixins.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_path.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_path.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_path.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_rotated-flipped.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_rotated-flipped.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_rotated-flipped.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_stacked.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_stacked.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_stacked.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/_variables.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/_variables.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/_variables.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/font-awesome/scss/font-awesome.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/font-awesome/scss/font-awesome.scss",
       "PackagePath": "staticwebassets/assets/plugins/font-awesome/scss/font-awesome.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/gmaps/README.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/gmaps/README.md",
       "PackagePath": "staticwebassets/assets/plugins/gmaps/README.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/gmaps/gmaps.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/gmaps/gmaps.js",
       "PackagePath": "staticwebassets/assets/plugins/gmaps/gmaps.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/gmaps/gmaps.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/gmaps/gmaps.min.js",
       "PackagePath": "staticwebassets/assets/plugins/gmaps/gmaps.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/holder.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/holder.js",
       "PackagePath": "staticwebassets/assets/plugins/holder.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-migrate.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-migrate.min.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery-migrate.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-mixitup/.gitignore",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-mixitup/.gitignore",
       "PackagePath": "staticwebassets/assets/plugins/jquery-mixitup/.gitignore"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-mixitup/README.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-mixitup/README.md",
       "PackagePath": "staticwebassets/assets/plugins/jquery-mixitup/README.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-mixitup/bower.json",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-mixitup/bower.json",
       "PackagePath": "staticwebassets/assets/plugins/jquery-mixitup/bower.json"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-mixitup/jquery.mixitup.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-mixitup/jquery.mixitup.min.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery-mixitup/jquery.mixitup.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-mixitup/mixitup.jquery.json",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-mixitup/mixitup.jquery.json",
       "PackagePath": "staticwebassets/assets/plugins/jquery-mixitup/mixitup.jquery.json"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-slimscroll/README.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-slimscroll/README.md",
       "PackagePath": "staticwebassets/assets/plugins/jquery-slimscroll/README.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-slimscroll/jquery.slimscroll.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-slimscroll/jquery.slimscroll.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery-slimscroll/jquery.slimscroll.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-slimscroll/jquery.slimscroll.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-slimscroll/jquery.slimscroll.min.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery-slimscroll/jquery.slimscroll.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery-slimscroll/slimScroll.jquery.json",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery-slimscroll/slimScroll.jquery.json",
       "PackagePath": "staticwebassets/assets/plugins/jquery-slimscroll/slimScroll.jquery.json"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery.blockui.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery.blockui.min.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery.blockui.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery.cokie.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery.cokie.min.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery.cokie.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery.easing.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery.easing.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery.easing.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery.min.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery.min.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery.min.map",
       "PackagePath": "staticwebassets/assets/plugins/jquery.min.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery.parallax.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery.parallax.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery.parallax.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/jquery.scrollTo.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/jquery.scrollTo.min.js",
       "PackagePath": "staticwebassets/assets/plugins/jquery.scrollTo.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/moment.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/moment.min.js",
       "PackagePath": "staticwebassets/assets/plugins/moment.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/owl.carousel/assets/owl.carousel.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/owl.carousel/assets/owl.carousel.css",
       "PackagePath": "staticwebassets/assets/plugins/owl.carousel/assets/owl.carousel.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/owl.carousel/owl.carousel.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/owl.carousel/owl.carousel.js",
       "PackagePath": "staticwebassets/assets/plugins/owl.carousel/owl.carousel.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/owl.carousel/owl.carousel.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/owl.carousel/owl.carousel.min.js",
       "PackagePath": "staticwebassets/assets/plugins/owl.carousel/owl.carousel.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/antenna-black.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/antenna-black.png",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/antenna-black.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/antenna-red.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/antenna-red.png",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/antenna-red.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/antenna-yellow.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/antenna-yellow.png",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/antenna-yellow.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/antenna.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/antenna.css",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/antenna.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/bigstars.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/bigstars.css",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/bigstars.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/star-black32.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/star-black32.png",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/star-black32.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/star-gold32.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/star-gold32.png",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/star-gold32.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/star-red32.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/star-red32.png",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/star-red32.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/star-white32.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/star-white32.png",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/star-white32.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/star_2.gif",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/star_2.gif",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/star_2.gif"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/star_3.gif",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/star_3.gif",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/star_3.gif"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/content/star_4.gif",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/content/star_4.gif",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/content/star_4.gif"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/example.htm",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/example.htm",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/example.htm"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/rateit.aspx",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/rateit.aspx",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/rateit.aspx"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/sh/shBrushCSharp.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/sh/shBrushCSharp.js",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/sh/shBrushCSharp.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/sh/shBrushCss.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/sh/shBrushCss.js",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/sh/shBrushCss.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/sh/shBrushJScript.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/sh/shBrushJScript.js",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/sh/shBrushJScript.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/sh/shBrushXml.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/sh/shBrushXml.js",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/sh/shBrushXml.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/sh/shCore.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/sh/shCore.css",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/sh/shCore.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/sh/shCore.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/sh/shCore.js",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/sh/shCore.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/example/sh/shCoreDefault.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/example/sh/shCoreDefault.css",
       "PackagePath": "staticwebassets/assets/plugins/rateit/example/sh/shCoreDefault.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/src/delete.gif",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/src/delete.gif",
       "PackagePath": "staticwebassets/assets/plugins/rateit/src/delete.gif"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/src/jquery.rateit.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/src/jquery.rateit.js",
       "PackagePath": "staticwebassets/assets/plugins/rateit/src/jquery.rateit.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/src/jquery.rateit.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/src/jquery.rateit.min.js",
       "PackagePath": "staticwebassets/assets/plugins/rateit/src/jquery.rateit.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/src/jquery.rateit.min.js.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/src/jquery.rateit.min.js.map",
       "PackagePath": "staticwebassets/assets/plugins/rateit/src/jquery.rateit.min.js.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/src/rateit.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/src/rateit.css",
       "PackagePath": "staticwebassets/assets/plugins/rateit/src/rateit.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/rateit/src/star.gif",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/rateit/src/star.gif",
       "PackagePath": "staticwebassets/assets/plugins/rateit/src/star.gif"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/respond.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/respond.min.js",
       "PackagePath": "staticwebassets/assets/plugins/respond.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/License.txt",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/License.txt",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/License.txt"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/Readme.txt",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/Readme.txt",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/Readme.txt"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.dev.svg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.dev.svg",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.dev.svg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.svg",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.svg",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.svg"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/icons-lte-ie7.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/icons-lte-ie7.js",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/icons-lte-ie7.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/simple-line-icons.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/simple-line-icons.css",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/simple-line-icons.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/simple-line-icons/simple-line-icons.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/simple-line-icons/simple-line-icons.min.css",
       "PackagePath": "staticwebassets/assets/plugins/simple-line-icons/simple-line-icons.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/smooth-scroll/smooth-scroll.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/smooth-scroll/smooth-scroll.js",
       "PackagePath": "staticwebassets/assets/plugins/smooth-scroll/smooth-scroll.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/README.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/README.md",
       "PackagePath": "staticwebassets/assets/plugins/uniform/README.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/css/uniform.default.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/css/uniform.default.css",
       "PackagePath": "staticwebassets/assets/plugins/uniform/css/uniform.default.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/css/uniform.default.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/css/uniform.default.min.css",
       "PackagePath": "staticwebassets/assets/plugins/uniform/css/uniform.default.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/css/uniform.default.scss",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/css/uniform.default.scss",
       "PackagePath": "staticwebassets/assets/plugins/uniform/css/uniform.default.scss"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/images/bg-input-focus.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/images/bg-input-focus.png",
       "PackagePath": "staticwebassets/assets/plugins/uniform/images/bg-input-focus.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/images/bg-input.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/images/bg-input.png",
       "PackagePath": "staticwebassets/assets/plugins/uniform/images/bg-input.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/images/sprite.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/images/sprite.png",
       "PackagePath": "staticwebassets/assets/plugins/uniform/images/sprite.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/images/sprite_original.png",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/images/sprite_original.png",
       "PackagePath": "staticwebassets/assets/plugins/uniform/images/sprite_original.png"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/jquery.uniform.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/jquery.uniform.js",
       "PackagePath": "staticwebassets/assets/plugins/uniform/jquery.uniform.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/uniform/jquery.uniform.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/uniform/jquery.uniform.min.js",
       "PackagePath": "staticwebassets/assets/plugins/uniform/jquery.uniform.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/zoom/jquery.zoom.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/zoom/jquery.zoom.js",
       "PackagePath": "staticwebassets/assets/plugins/zoom/jquery.zoom.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/assets/plugins/zoom/jquery.zoom.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/assets/plugins/zoom/jquery.zoom.min.js",
       "PackagePath": "staticwebassets/assets/plugins/zoom/jquery.zoom.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/css/site.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/favicon.ico",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/js/site.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/ck/Documents/kata/Invest/investment_app/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {

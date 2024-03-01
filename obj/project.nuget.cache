@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ABte5TCTRYrvGUUrHTcjzEgwAO8IUPLpI5Ta0gT8B9PU+nZG/XaAgiLmJ9A9riBnwlIYbdlSiRpyvBbrimprbg==",
+  "dgSpecHash": "tislTzSW9UyGl/y7nDmB3dY0QEGKgXbPFYqnbQMxDt9kOXa8XRgPLc5OGGIVUQLw8vWiO38Q1gqVc3Ex9CdOqw==",
   "success": true,
-  "projectFilePath": "/Users/ck/Documents/kata/csharp/Invest_project/KooliProjekt/KooliProjekt.csproj",
+  "projectFilePath": "/Users/ck/Documents/kata/Invest/investment_app/KooliProjekt.csproj",
   "expectedPackageFiles": [
     "/Users/ck/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/ck/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.9/microsoft.aspnetcore.cryptography.internal.6.0.9.nupkg.sha512",
